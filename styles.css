@@ -1,0 +1,34 @@
+  body {
+    height: 4400px;
+      background-color: #cccccc;
+      background-image: linear-gradient(#006778, #7FB5FF);
+}
+  hr {
+    background-color:inherit;
+    border-style: none;
+    border-top-style:double;
+    border-top-color: white;
+    border-top-width: 5px;
+    width: 10%;
+    height: 0px;
+}
+  table, tr {
+
+    border: 1px solid;
+    border-color: #18978F;
+}
+  td {
+    text-align: center;
+
+  }
+  h1 {
+    color: white;
+    text-align: center;
+
+  }
+
+  h3 {
+    color: white;
+    text-align: center;
+
+}
